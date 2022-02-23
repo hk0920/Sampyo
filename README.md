@@ -6,7 +6,7 @@
 
 #### 프로젝트 정보
 > * **개발인원** : 1명
-> * **기간 : 2016.09.24 - 2016.09.27
+> * **기간** : 2016.09.24 - 2016.09.27
 > * **개발환경** : 
     <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
     <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
