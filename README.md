@@ -1,5 +1,5 @@
 # 삼표 웹
-웹 표준/접근성, 크로스 브라우징, pc 웹 
+웹 표준/접근성, 크로스 브라우징 웹 사이트
 
   ![chrome-index](https://user-images.githubusercontent.com/75876034/155284803-a0008231-280a-4cf9-8511-20bf800863fb.png)
 
